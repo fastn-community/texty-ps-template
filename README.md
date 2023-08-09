@@ -1,26 +1,25 @@
 # Overview
 
-[doc-site](https://fastn-community.github.io/doc-site/) will help you create
-a beautiful documentation site in no time.
+[texty-ps](https://fifthtry.github.io/texty-ps/) will help you create a
+beautiful fastn portfolio or personal site in no time.
 
 It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
+kind of portfolio / personal website, blog, etc.
 
 # Preview
 
-![doc-site](.github/assets/doc-site-example-dark.jpg)
+![texty-ps](.github/assets/texty-ps-dark.png)
 
 ## Get Rolling
 
-[Click here](https://fastn-community.github.io/doc-site/) to learn how to use this template.
+[Click here](https://fifthtry.github.io/texty-ps/) to learn how to use this template.
 
-# [Dive into the Docs](https://fastn-community.github.io/doc-site/)
+# [Dive into the Docs](https://fifthtry.github.io/texty-ps/docs/)
 
 # See it in Action!
 
 Explore websites and projects that have utilized this component/template 
-**[here](https://fastn-community.github.io/doc-site/#dart-used-by)** for
-inspiration.
+**[here](https://fifthtry.github.io/texty-ps/)** for inspiration.
 
 ## fastn and Curious?
 
